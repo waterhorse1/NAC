@@ -32,7 +32,7 @@ cd leduc_poker
 python3 kuhn_to_leduc.py --br_type 'approx_br_rand'
 # To reproduce the exact best-response results
 python3 kuhn_to_leduc.py --br_type 'exact_br'
-
+```
 ## Cite
 Please cite our paper if you use the code or datasets in your own work:
 ```
@@ -42,7 +42,6 @@ Please cite our paper if you use the code or datasets in your own work:
   journal={arXiv preprint arXiv:2106.02745},
   year={2021}
 }
-```
 ```
 
 
