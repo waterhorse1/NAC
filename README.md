@@ -20,7 +20,7 @@ conda activate lmac
 ```
 
 ### 2D-RPS visualization
-![123](./2d-rps-gradient/visualisation/auto_2d_rps_all.pdf)
+![123](./2drps.png)
 Visualisation results can be tested in:
 
 2d-rps-gradient/visualisation/visualization_2d_rps.ipynb.
