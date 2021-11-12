@@ -16,6 +16,7 @@ Run test.py and you can check the comment in test.py for different test configur
 
 ### 2D-RPS visualization
 ![123](./2drps.png)
+
 Visualisation results can be tested in:
 
 2d-rps-gradient/visualisation/visualization_2d_rps.ipynb.
