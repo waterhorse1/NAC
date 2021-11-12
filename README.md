@@ -20,12 +20,13 @@ conda activate lmac
 ```
 
 ### 2D-RPS visualization
+![123](./2d-rps-gradient/visualisation/auto_2d_rps_all.pdf)
 Visualisation results can be tested in:
 
 2d-rps-gradient/visualisation/visualization_2d_rps.ipynb.
 
 ### Kuhn->Leduc Generalization
-![123](kuhn_leduc_gen.png)
+![123](./2d-rps-gradient/visualisation/kuhn_leduc_gen.png)
 
 we provide a local implementation in which one can reproduce the results of generalising our models trained on Kuhn Poker to Leduc Poker.
 
