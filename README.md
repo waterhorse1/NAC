@@ -14,11 +14,6 @@ We use wandb to log experimental results, you may need to register for an accoun
 ## How to test
 Run test.py and you can check the comment in test.py for different test configurations.
 
-```python
-conda env create -f lmac.yml
-conda activate lmac
-```
-
 ### 2D-RPS visualization
 ![123](./2drps.png)
 Visualisation results can be tested in:
@@ -26,7 +21,7 @@ Visualisation results can be tested in:
 2d-rps-gradient/visualisation/visualization_2d_rps.ipynb.
 
 ### Kuhn->Leduc Generalization
-![123](./2d-rps-gradient/visualisation/kuhn_leduc_gen.png)
+![123](./123)
 
 we provide a local implementation in which one can reproduce the results of generalising our models trained on Kuhn Poker to Leduc Poker.
 
