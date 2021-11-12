@@ -113,6 +113,7 @@ model_list = []
 # m = meta_solver_small().to(device)
 # m.load_state_dict(torch.load('./pretrain_model/model.pt'))
 # model_list = [m]
+# method_list = ['auto']
 
 # For testing Nash-PSRO/Uniform/Self-play/PSRO-RN,
 # model_list = [None]
