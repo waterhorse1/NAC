@@ -20,8 +20,7 @@ conda activate lmac
 ```
 
 ### 2D-RPS visualization
-![123](2d_rps.png)
-Visualisation results can be tested in 2d_rps/visualization_2d_rps.ipynb.
+Visualisation results can be tested in 2d-rps-gradient/visualisation/visualization_2d_rps.ipynb.
 
 ### Kuhn->Leduc Generalization
 ![123](kuhn_leduc_gen.png)
